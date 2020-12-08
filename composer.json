@@ -1,0 +1,26 @@
+{
+    "name": "skrip42/strategy-bundle",
+    "type": "symfony-bundle",
+    "description": "strategy in symfony",
+    "keywords": [],
+    "homepage": "https://github.com/Skrip42/strategyBundle",
+    "version": "v1.0.0",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "skrip",
+            "email": "skrip42@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Skrip42\\Bundle\\StrategyBundle\\":""
+        }
+    }
+}
